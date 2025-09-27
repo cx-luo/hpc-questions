@@ -40,7 +40,7 @@ This project demonstrates various parallel programming techniques in Go, includi
 ## Project Structure
 
 ```
-xuhao-questions/
+hpc-questions/
 ├── main.go                    # Main entry point with test functions
 ├── go.mod                     # Go module definition
 ├── src/                       # Source code directory
@@ -61,12 +61,12 @@ xuhao-questions/
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd xuhao-questions
+cd hpc-questions
 ```
 
 2. Build the project:
 ```bash
-go build -o xuhao-questions main.go
+go build -o hpc-questions main.go
 ```
 
 ## Usage
